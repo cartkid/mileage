@@ -1,3 +1,3 @@
 # mileage
 
-*elevicky
+elevicky
