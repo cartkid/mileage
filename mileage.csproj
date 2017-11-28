@@ -6,7 +6,7 @@
     <UserSecretsId>aspnet-app-0AB8B975-7029-4B18-8001-EB28E0ACB79E</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <None Update="app.db" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="mileage.db" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.4" />
